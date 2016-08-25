@@ -1,0 +1,394 @@
+﻿/*Custom button*/
+.btn-outline {
+    color: white;
+    font-size: 20px;
+    border: solid 2px #337ab7;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px;
+}
+
+    .btn-outline:hover,
+    .btn-outline:focus,
+    .btn-outline:active,
+    .btn-outline.active {
+        color: #337ab7;
+        background: white;
+        border: solid 2px #337ab7;
+    }
+
+ul.banner-social-buttons {
+    margin-top: 0;
+}
+/*White outline*/
+.btn-outline {
+    color: white;
+    font-size: 20px;
+    border: solid 2px white;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px;
+}
+
+    .btn-outline:hover,
+    .btn-outline:focus,
+    .btn-outline:active,
+    .btn-outline.active {
+        color: #2d2d30;
+        background: white;
+        border: solid 2px white;
+    }
+
+/*Black*/
+.btn-boutline {
+    color: #3D3D3E;
+    font-size: 20px;
+    border: solid 2px #3D3D3E;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px;
+    width: 200px;
+}
+
+    .btn-boutline:hover,
+    .btn-boutline:focus,
+    .btn-boutline:active,
+    .btn-boutline.active {
+        color: #fff;
+        background: #3D3D3E;
+        border: solid 2px #3D3D3E;
+    }
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    ul.banner-social-buttons li {
+        display: block;
+        margin-bottom: 15px;
+        padding: 0;
+    }
+
+        ul.banner-social-buttons li:last-child {
+            margin-bottom: 0;
+        }
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body, html {
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+.fancy-button {
+    border: 1px solid #563d7c;
+    border-radius: 2px;
+    color: white;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+    background-position-y: 10px;
+    background-position-x: 5px;
+    background-color: #71637d;
+}
+
+/* Code formatting*/
+table.code, table.spec, table.results, table.compile, table.summary {
+    margin-left: 4em;
+    border: 1px solid #000000;
+    padding: 4px;
+}
+
+table.code {
+    background-color: #e5e5e5;
+}
+
+table.spec {
+    background-color: #aaddff;
+}
+
+table.results {
+    background-color: #aaeeaa;
+}
+
+table.compile {
+    background-color: #ffaaaa;
+}
+
+table.summary {
+    background-color: #ffffff;
+}
+
+div.code, div.output {
+    border-right: white 2px ridge;
+    padding-right: 10px;
+    border-top: white 2px ridge;
+    padding-left: 10px;
+    font-size: 10pt;
+    padding-bottom: 10px;
+    margin: 10px;
+    border-left: white 2px ridge;
+    padding-top: 10px;
+    border-bottom: white 2px ridge;
+    font-family: courier new;
+    background-color: #e5e5e5;
+}
+
+/* For code snippets */
+
+span.Keyword, span.Linq, span.ReferenceType, span.ValueType, span.Modifier, span.Statement,
+span.MethodParameter, span.Namespace, span.DataType, span.Function, span.Method,
+span.Object, span.Operator, span.Property, span.SysTable, span.SysSproc,
+span.GlobalVariable, span.ReservedKeyword, span.SystemFunction, span.Type,
+span.PreProcessorDirective, span.Element {
+    color: #0000cc;
+}
+
+span.BlockComment, span.XmlComment, span.InlineComment, span.JavaDoc {
+    color: green;
+}
+
+span.String {
+    color: black;
+}
+
+span.Attention {
+    font-weight: bold;
+    color: red;
+}
+
+span.Entity {
+    color: red;
+}
+
+
+/*Custom Georgi*/
+.bg-1 {
+    background: #fff;
+    color: #2d2d30;
+    opacity: 0.9;
+}
+
+    .bg-1 h3 {
+        color: #fff;
+    }
+
+    .bg-1 p {
+        font-style: italic;
+    }
+
+.list-group-item:first-child {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.fadeIn {
+    display: none;
+}
+
+/*Work - caption - images*/
+.work {
+    overflow: hidden;
+    position: relative;
+}
+
+.tile {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+    .tile li {
+        display: block;
+        position: relative !important;
+        float: left;
+        overflow: hidden;
+        margin: 0;
+        width: 25%;
+        text-align: center;
+        margin-bottom: -4px;
+    }
+
+    .tile img {
+        width: 100%;
+        height: auto;
+    }
+
+.caption {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(34, 34, 34, 0.9);
+    width: 100%;
+    height: 99%;
+    color: #fff;
+    z-index: 1000;
+}
+
+.caption-inner {
+    padding-top: 25%;
+    width: 100%;
+}
+
+.caption h3 {
+    font-size: 18px;
+}
+
+.caption p {
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 0 0 30px 0;
+    letter-spacing: 2px;
+}
+
+.caption h3, .caption p {
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+
+.caption .underline {
+    margin-bottom: 30px;
+}
+
+    .caption .underline:after {
+        content: "";
+        position: absolute;
+        top: 170%;
+        left: 45%;
+        right: 45%;
+        border-top: 3px solid #fff;
+    }
+
+.caption .divider {
+    margin: 0 auto 20px auto;
+    border-top: 3px solid #fff;
+    width: 20px;
+}
+
+
+.caption a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    border: 1px solid #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+    .caption a:hover {
+        background: #fff;
+        color: #333;
+    }
+
+/*Dropdown*/
+.dropdown li.active a {
+    background-color: #29292c !important;
+}
+
+.dropdown-menu li.active a {
+    background-color: #29292c !important;
+}
+
+.dropdown.active {
+    background-color: transparent !important;
+}
+
+.dropdown-menu.active {
+    background-color: transparent !important;
+}
+
+.dropdown-menu li a {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    letter-spacing: 0px;
+    transition: all 0.3s ease-in-out;
+    color: black !important;
+    font-weight: normal;
+}
+
+    .dropdown-menu li a:hover {
+        background-color: #29292c !important;
+    }
+
+.dropdown:hover {
+    color: #fff !important;
+    background-color: transparent !important;
+}
+
+
+/*Mega dropdown*/
+.mega-dropdown {
+    position: static !important;
+}
+
+.mega-dropdown-menu {
+    padding: 20px 0px;
+    width: 100%;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+    .mega-dropdown-menu > li > ul {
+        padding: 0;
+        margin: 0;
+    }
+
+        .mega-dropdown-menu > li > ul > li {
+            list-style: none;
+        }
+
+            .mega-dropdown-menu > li > ul > li > a {
+                display: block;
+                color: #222;
+                padding: 3px 5px;
+            }
+
+    .mega-dropdown-menu > li ul > li > a:hover,
+    .mega-dropdown-menu > li ul > li > a:focus {
+        text-decoration: none;
+    }
+
+    .mega-dropdown-menu .dropdown-header {
+        font-size: 18px;
+        color: #ff3546;
+        padding: 5px 60px 5px 5px;
+        line-height: 30px;
+    }

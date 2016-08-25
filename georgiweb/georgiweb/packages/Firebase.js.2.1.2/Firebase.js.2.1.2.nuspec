@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Firebase.js</id>
+    <version>2.1.2</version>
+    <title>Firebase Web Client</title>
+    <authors>firebase</authors>
+    <owners>firebase</owners>
+    <projectUrl>https://github.com/firebase/firebase-bower</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/1335026?s=140</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Firebase Web Client</description>
+    <summary>Firebase Web Client 
+https://www.firebase.com/</summary>
+    <tags>Firebase synchronization real-time websocket</tags>
+  </metadata>
+</package>

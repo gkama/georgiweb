@@ -1,0 +1,389 @@
+﻿﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="georgiweb.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title><%: Page.Title %> - Georgi Kamacharov</title>
+    
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+
+    <link href="~/favicongray.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <style>
+        html,
+        body {
+            background-color: #e6e6e6;
+            background-size: 100% 100%;
+            width: 100%;
+            height: 100%;
+            min-width: 100%;
+            min-height: 100%;
+            max-height: 100%;
+            max-width: 100%;
+            margin: 0px;
+            padding: 0px;
+            bottom: 0px;
+            margin-bottom: 0px;
+            border: 0px;
+        }
+
+        html, body {
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+        }
+
+        .nav-tabs li a {
+            color: #777;
+        }
+
+        .navbar {
+            font-family: Montserrat, sans-serif;
+            margin-bottom: 0;
+            background-color: #e6e6e6;
+            width: 100%;
+            border: 0;
+            font-size: 11px !important;
+            letter-spacing: 0px;
+            opacity: 1.0;
+            left: 0;
+            right: 0;
+            margin-left: 0;
+            margin-right: 0;
+            padding-right: 20px;
+            padding-left: 10px;
+        }
+
+            .navbar .navbar-brand {
+                color: black !important;
+            }
+
+            .navbar li a {
+                color: black !important;
+                font-weight: bold;
+                font-size: 12px;
+                background: transparent;
+                transition: all 0.1s ease-in-out;
+                margin-top: 0px;
+            }
+
+        .navbar-fixed-top {
+            /*background-color: transparent;*/
+            background-color: #e6e6e6;
+        }
+
+        .navbar-nav li a:hover {
+            color: #fff !important;
+        }
+
+        .navbar-nav li.active a {
+            color: #fff !important;
+            background-color: transparent !important;
+        }
+
+        .navbar-default .navbar-toggle {
+            border-color: transparent;
+        }
+
+        .container-div {
+            height: 100%;
+            width: 100%;
+            min-width: 100%;
+            min-height: 100%;
+            position: absolute;
+            bottom: 0px;
+            right: 0px;
+            left: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+            padding: 0px;
+            padding-top: 40px;
+        }
+
+        hr {
+            border-color: #818182;
+            opacity: 0.7;
+        }
+
+
+
+        /*Dropdown*/
+        .dropdown li.active a {
+            background-color: #29292c !important;
+        }
+
+        .dropdown-menu li.active a {
+            background-color: #29292c !important;
+        }
+
+        .dropdown.active {
+            background-color: transparent !important;
+        }
+
+        .dropdown-menu.active {
+            background-color: transparent !important;
+        }
+
+        .dropdown-menu li a {
+            font-family: 'Century Gothic';
+            font-size: 13px;
+            letter-spacing: 0px;
+            transition: all 0.3s ease-in-out;
+            color: black !important;
+            font-weight: normal;
+        }
+
+            .dropdown-menu li a:hover {
+                background-color: #29292c !important;
+            }
+
+        .dropdown:hover {
+            color: #fff !important;
+            background-color: transparent !important;
+        }
+
+        /*Mega dropdown*/
+        .mega-dropdown {
+            position: static !important;
+        }
+
+        .mega-dropdown-menu {
+            padding: 20px 0px;
+            width: 100%;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+        }
+
+            .mega-dropdown-menu > li > ul {
+                padding: 0;
+                margin: 0;
+            }
+
+                .mega-dropdown-menu > li > ul > li {
+                    list-style: none;
+                }
+
+                    .mega-dropdown-menu > li > ul > li > a {
+                        display: block;
+                        color: #222;
+                        padding: 3px 5px;
+                    }
+
+            .mega-dropdown-menu > li ul > li > a:hover,
+            .mega-dropdown-menu > li ul > li > a:focus {
+                text-decoration: none;
+            }
+
+            .mega-dropdown-menu .dropdown-header {
+                font-size: 18px;
+                color: #ff3546;
+                padding: 5px 60px 5px 5px;
+                line-height: 30px;
+            }
+
+        /*Courasel*/
+        .carousel-control {
+            width: 30px;
+            height: 30px;
+            top: -35px;
+        }
+
+        .left.carousel-control {
+            right: 30px;
+            left: inherit;
+        }
+
+        .carousel-control .glyphicon-chevron-left,
+        .carousel-control .glyphicon-chevron-right {
+            font-size: 12px;
+            background-color: #fff;
+            line-height: 30px;
+            text-shadow: none;
+            color: #333;
+            border: 1px solid #ddd;
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server" style="bottom: 0px; margin-bottom: 0px;">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <asp:UpdatePanel runat="server" UpdateMode="Conditional">
+            <ContentTemplate>
+
+
+                <!-- NAVBAR Menu -->
+                <nav id="navbarid" class="navbar navbar-default navbar-fixed-top" style="position: absolute;">
+                    <div class="container-fluid" style="padding: 0;">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" runat="server" href="HomePage"><i class="fa fa-home fw" aria-hidden="true"></i>GK</a>
+                        </div>
+                        <div class="collapse navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Resume/Resume" style="font-family: Arial Black, Gadget, sans-serif;">RESUME</a></li>
+                                <li><a runat="server" href="~/Experience/Experience" style="font-family: Arial Black, Gadget, sans-serif;">EXPERIENCE</a></li>
+                                <li><a runat="server" href="~/Contact/Contact" style="font-family: Arial Black, Gadget, sans-serif;">CONTACT</a></li>
+                                <li><a runat="server" href="~/PersonalProjects/PersonalProjects" style="font-family: Arial Black, Gadget, sans-serif;">PROJECTS</a></li>
+                                <!--<li class="dropdown mega-dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-family: Arial Black, Gadget, sans-serif;">PROJECTS<span class="caret"></span></a>
+                                    <ul class="dropdown-menu mega-dropdown-menu">
+                                        <li class="col-sm-4 pull-right">
+                                            <ul>
+                                                <li class="dropdown-header">PROJECTS</li>
+                                                <li class="divider"></li>
+                                                <li><a runat="server" href="~/PersonalProjects/PersonalProjects" style="font-style: italic;">Personal Projects</a></li>
+                                                <li class="divider"></li>
+                                                <li><a runat="server" href="~/PersonalProjects/WinTheDay" style="font-style: italic;">Win The Day</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>-->
+
+                                <li class="dropdown mega-dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-family: Arial Black, Gadget, sans-serif;">C# CODING CHALLENGES<span class="caret"></span></a>
+                                    <ul class="dropdown-menu mega-dropdown-menu">
+                                        
+                                        <li class="col-sm-6 pull-left">
+                                            <ul>
+                                                <li class="dropdown-header"><i class="fa fa-code fa-2x"></i>CODE</li>
+                                                <hr />
+                                                <li>
+                                                    <p style="color: black; font-family: 'Century Gothic'; font-size: 12px; letter-spacing: 0;">
+                                                        <i>These challenges are based on Reddit's own /r/DailyProgrammer. You can get to it <a href="https://www.reddit.com/r/DailyProgrammer">here</a>.<br />
+                                                            <br />
+                                                            Dailyprogrammer is about challenging programmers of all skill level with weekly programming challenges. 3 challenges a week are posted at increasing difficulty. Solutions are peer reviewed and redditors can ask for the community for feedback and comments.<br />
+                                                            <br />
+                                                            The typical posting of challenges occur on or near the following days.<br />
+                                                            • Mon [Easy]<br />
+                                                            • Wed [Intermediate]<br />
+                                                            • Fri [Hard]<br />
+                                                        </i>
+                                                    </p>
+                                                </li>
+                                                <hr />
+                                            </ul>
+                                        </li>
+                                        
+                                        <li class="col-sm-2">
+                                            <ul>
+                                                <li class="dropdown-header">Easy</li>
+                                                <li><a runat="server" href="~/Challenges/GettingADegree" style="font-style: italic;">Getting A Degree</a></li>
+                                                <li><a runat="server" href="~/Challenges/BasicFormatting" style="font-style: italic;">Basic Formatting</a></li>
+                                                <li><a runat="server" href="~/Challenges/ToBaseN" style="font-style: italic;">To Base N</a></li>
+                                                <li><a runat="server" href="~/Challenges/ConvertMinutesPage" style="font-style: italic;">Convert Minutes</a></li>
+
+                                                <li><a runat="server" href="~/Challenges/RandomBagSystem" style="font-style: italic">Random Bag System</a></li>
+                                                <li><a runat="server" href="~/Challenges/LettersInAlphaOrder" style="font-style: italic">Letters In Alphabetical Order</a></li>
+                                                <li><a runat="server" href="~/Challenges/TheNameGame" style="font-style: italic;">The Name Game</a></li> 
+                                                <li><a runat="server" href="~/Challenges/ADNumbersPage" style="font-style: italic">Abundant & Deficient Numbers</a></li>
+                                                <li><a runat="server" href="~/Challenges/SailorsAndMonkeys" style="font-style: italic">Sailors & Coconuts</a></li>
+
+                                                <li><a runat="server" href="~/Challenges/AtbashCipher" style="font-style: italic">Atbash Cipher</a></li>
+                                                <li><a runat="server" href="~/Challenges/GameOfThrees" style="font-style: italic">Game Of Threes</a></li>
+
+                                                <li class="divider"></li>
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-2">
+                                            <ul>
+                                                <li class="dropdown-header">Intermediate</li>
+                                                <li><a runat="server" href="~/Challenges/DeBruijnSequence" style="font-style: italic;">De Bruijn Sequence</a></li>
+                                                <li><a runat="server" href="~/Challenges/TypoglycemiaPage" style="font-style: italic;">Typoglycemia</a></li>
+                                                <li><a runat="server" href="~/Challenges/WhatsInTheBag" style="font-style: italic;">What's In The Bag?</a></li>
+                                                <li><a runat="server" href="~/Challenges/KeyFunction" style="font-style: italic;">Key Function</a></li>
+                                                <li><a runat="server" href="~/Challenges/SimplifyingFractions" style="font-style: italic;">Simplifying Factions</a></li>
+                                                <li><a runat="server" href="~/Challenges/SplurthianChemistry101 " style="font-style: italic;">Splurthian Chemistry 101</a></li>
+                                                <li><a runat="server" href="~/Challenges/TwistUpAMessage " style="font-style: italic;">Twist Up A Message</a></li>
+                                                <li><a runat="server" href="~/Challenges/StreamCipher " style="font-style: italic;">Stream Cipher</a></li>
+
+                                                <li class="divider"></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="col-sm-2">
+                                            <ul>
+                                                <li class="dropdown-header">Hard</li>
+                                                <li><a runat="server" href="~/Challenges/MirrorEncryption" style="font-style: italic;">Mirror Encryption</a></li>
+                                                <li><a runat="server" href="~/Challenges/PuzzleSwapper" style="font-style: italic;">Puzzle Swapper</a></li>
+
+                                                <li class="divider"></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+                <!-- NAVBAR Menu END -->
+
+
+                <div runat="server" class="container-div" style="bottom: 0px; margin-bottom: 0px;">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </ContentTemplate>
+            <Triggers>
+            </Triggers>
+        </asp:UpdatePanel>
+    </form>
+</body>
+</html>
+
+<script>
+    $(document).ready(function () {
+        var url = window.location;
+        $('.navbar .nav').find('.active').removeClass('active');
+        $('.navbar .nav li a').each(function () {
+            if (this.href == url) {
+                $(this).parent().addClass('active');
+            }
+        });
+
+        $(".dropdown").hover(
+        function () {
+            $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+            $(this).toggleClass('open');
+        },
+        function () {
+            $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+            $(this).toggleClass('open');
+        }
+    );
+    });
+</script>

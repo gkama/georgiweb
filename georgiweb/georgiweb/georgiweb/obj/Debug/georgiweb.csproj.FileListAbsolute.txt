@@ -1,0 +1,311 @@
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\georgiweb.dll.config
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\georgiweb.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\georgiweb.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\EntityFramework.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Owin.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\System.Web.Providers.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\WebGrease.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\EntityFramework.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\georgiweb.dll.config
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\georgiweb.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\georgiweb.pdb
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\EntityFramework.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Owin.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\System.Web.Providers.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\WebGrease.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\EntityFramework.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\georgiweb.dll.config
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\georgiweb.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\georgiweb.pdb
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\EntityFramework.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Owin.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\System.Web.Providers.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\WebGrease.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\EntityFramework.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+C:\Users\gkam4141\Documents\GitHub\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2015\Projects\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll.config
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\georgiweb.pdb
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\EntityFramework.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Owin.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\WebGrease.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\EntityFramework.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+D:\Visual Studio 2015\Projects\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll.config
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.pdb
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Owin.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\UnitConverter.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\WebGrease.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\UnitConverter.pdb
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+C:\Users\gkam4141\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll.config
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\georgiweb.pdb
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Owin.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\WebGrease.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\UnitConverter.pdb
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Antlr3.Runtime.pdb
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\EntityFramework.SqlServer.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\RestSharp.dll
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\RestSharp.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.xml
+C:\Users\gkama\Documents\GitHub\GeorgiDevelopment\georgiweb\georgiweb\georgiweb\bin\AspNet.ScriptManager.bootstrap.dll
