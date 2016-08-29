@@ -101,7 +101,7 @@
                                     <a href="https://play.google.com/store/apps/details?id=converter.converter" target="_blank" style="color: #5d5d5d; text-decoration: none !important;">
                                         <div class="image">
                                             <i class="fa fa-circle-o-notch fa-fw fa-4x"></i>
-                                            <h3 class="title">Converter</h3>
+                                            <h3 class="title">Unit Converter</h3>
                                         </div>
                                     </a>
                                 </div>
