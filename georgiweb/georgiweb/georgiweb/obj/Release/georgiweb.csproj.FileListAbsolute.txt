@@ -214,3 +214,6 @@ C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Micr
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Release\georgiweb.csprojResolveAssemblyReference.cache
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Release\georgiweb.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Release\georgiweb.pdb
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Net.Http.Formatting.dll
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Net.Http.Formatting.xml

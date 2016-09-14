@@ -337,6 +337,8 @@ C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Micr
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Owin.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\RestSharp.dll
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Net.Http.Formatting.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\WebGrease.dll
@@ -357,10 +359,9 @@ C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Micr
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Newtonsoft.Json.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\RestSharp.xml
+C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Net.Http.Formatting.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.xml
-C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\UnitConverter.pdb
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.csprojResolveAssemblyReference.cache
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.dll
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Debug\georgiweb.pdb
