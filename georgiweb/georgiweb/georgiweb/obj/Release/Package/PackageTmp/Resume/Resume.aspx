@@ -10,13 +10,17 @@
             text-align: right;
         }
     </style>
-    <div class="container-fluid" style="background-color: #e6e6e6; font-family:'Century Gothic';">
+    <div class="container-fluid" style="background-color: #e6e6e6; font-family: 'Century Gothic';">
         <div id="resumefade" style="margin: 7px; padding-top: 20px; padding-left: 20px; padding-right: 20px; display: none;">
             <div class="row">
                 <div class="col-sm-1" style="text-align: center; padding: 0; margin: 0;">
                     <div class="row">
-                        <a href="#" title="Download">
-                            <i class="fa fa-download fa-fw fa-3x" aria-hidden="true"></i></a>
+                        <asp:UpdatePanel runat="server" ID="UpdatePanel3" UpdateMode="Conditional">
+                            <ContentTemplate>
+                                <asp:LinkButton runat="server" ToolTip="Download" ID="downBtn" OnClick="downloadFile" CausesValidation="false" OnClientClick="downloadFile">                               
+                                   <i class="fa fa-download fa-fw fa-3x" aria-hidden="true"></i></asp:LinkButton>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
                     </div>
 
                     <hr style="opacity: 0.2" />

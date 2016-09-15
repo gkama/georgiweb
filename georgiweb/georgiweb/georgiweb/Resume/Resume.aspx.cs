@@ -22,14 +22,30 @@ namespace georgiweb.Resume
 
         }
 
+        //Download file
+        protected void downloadFile(object sender, EventArgs e)
+        {
+            using (WebClient ftpClient = new WebClient())
+            {
+                ftpClient.Credentials = new NetworkCredential(@"georgiweb\$georgiweb", "ig1Zv6mlZLoj1ZPrmswYRNPgd8bQpd2XzZGs54uYdLfWYuBy3DtSlCXavhwi");
+                ftpClient.DownloadFile("ftp://waws-prod-blu-049.ftp.azurewebsites.windows.net/site/wwwroot/Resume", "Resume.docx");
+            }
+        }
+
         //Send email
-        protected void send_email(Object sender, EventArgs e)
+        protected void send_email(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(toEmailTxtBox.Text.ToString().Trim()) &&
                 IsValidEmail(toEmailTxtBox.Text.ToString().Trim()))
             {
+                using (WebClient ftpClient = new WebClient())
+                {
+                    ftpClient.Credentials = new NetworkCredential(@"georgiweb\$georgiweb", "ig1Zv6mlZLoj1ZPrmswYRNPgd8bQpd2XzZGs54uYdLfWYuBy3DtSlCXavhwi");
+                    ftpClient.DownloadFile("ftp://waws-prod-blu-049.ftp.azurewebsites.windows.net/site/wwwroot/Resume", "Resume.docx");
+                }
+
                 SmtpClient client = new SmtpClient("smtp.sendgrid.net");
-                Attachment file = new Attachment(@"C:\Users\gkama\Desktop\Stuff\Resume\Resume.docx");
+                Attachment file = new Attachment(@"\Resume\Resume.docx");
                 MailAddress from = new MailAddress("donotreply@gkamacharov.com", "Resume", Encoding.UTF8);
                 MailAddress to = new MailAddress(toEmailTxtBox.Text.ToString());
 

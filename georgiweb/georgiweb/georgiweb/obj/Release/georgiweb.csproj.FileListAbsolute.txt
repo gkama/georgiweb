@@ -209,7 +209,6 @@ C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Newt
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\RestSharp.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Optimization.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\System.Web.Providers.xml
-C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\UnitConverter.pdb
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Release\georgiweb.csprojResolveAssemblyReference.cache
 C:\Users\gkama\Documents\GitHub\georgiweb\georgiweb\georgiweb\georgiweb\obj\Release\georgiweb.dll
